@@ -1,0 +1,5 @@
+com\nelson\product\bo\ProductBO.class
+com\nelson\product\bo\ProductBOImpl.class
+com\nelson\product\dao\ProductDAOImpl.class
+com\nelson\product\dto\Product.class
+com\nelson\product\dao\ProductDAO.class
